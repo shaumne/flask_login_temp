@@ -45,4 +45,4 @@ To use the Basic Flask Login Template in your own project, you can copy and modi
 
 ## Contributing
 
-If you find any bugs or issues with the Basic Flask Login Template, please feel free to open an issue on the [GitHub repository](https://github.com/yourusername/basic-flask-login-template). Pull requests are also welcome!
+If you find any bugs or issues with the Basic Flask Login Template, please feel free to open an issue on the [GitHub repository](https://github.com/shaumne/flask_login_tem). Pull requests are also welcome!
