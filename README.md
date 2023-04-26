@@ -11,7 +11,7 @@ Basic Flask Login Template is a simple project template that can be used as a st
 
 ## Installation
 
-1. Clone or download the project from the [GitHub repository](https://github.com/shaumne/flask_login_tem).
+1. Clone or download the project from the [GitHub repository](https://github.com/shaumne/flask_login_temp).
 
    `git clone https://github.com/shaumne/flask_login_temp`
 2. Create a virtual environment and activate it.
@@ -45,4 +45,4 @@ To use the Basic Flask Login Template in your own project, you can copy and modi
 
 ## Contributing
 
-If you find any bugs or issues with the Basic Flask Login Template, please feel free to open an issue on the [GitHub repository](https://github.com/shaumne/flask_login_tem). Pull requests are also welcome!
+If you find any bugs or issues with the Basic Flask Login Template, please feel free to open an issue on the [GitHub repository](https://github.com/shaumne/flask_login_temp). Pull requests are also welcome!
